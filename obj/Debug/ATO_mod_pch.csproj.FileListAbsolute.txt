@@ -1,0 +1,8 @@
+F:\gameMOD\Across the Obelisk\plugin\ATO_mod_pch\bin\Debug\ATO_mod_pch.dll
+F:\gameMOD\Across the Obelisk\plugin\ATO_mod_pch\bin\Debug\ATO_mod_pch.pdb
+F:\gameMOD\Across the Obelisk\plugin\ATO_mod_pch\obj\Debug\ATO_mod_pch.csproj.CoreCompileInputs.cache
+F:\gameMOD\Across the Obelisk\plugin\ATO_mod_pch\obj\Debug\ATO_mod_pch.dll
+F:\gameMOD\Across the Obelisk\plugin\ATO_mod_pch\obj\Debug\ATO_mod_pch.pdb
+E:\SteamLibrary\steamapps\common\Across the Obelisk\BepInEx\plugins\ATO_mod_pch.dll
+E:\SteamLibrary\steamapps\common\Across the Obelisk\BepInEx\plugins\ATO_mod_pch.pdb
+F:\gameMOD\Across the Obelisk\plugin\ATO_mod_pch\obj\Debug\ATO_mod_pch.csproj.AssemblyReference.cache
