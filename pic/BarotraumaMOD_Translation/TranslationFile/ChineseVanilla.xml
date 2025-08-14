@@ -1,10 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Chinese" nowhitespace="false">
-  <TooManyBaro.options.name.refreshtime>不同可选材料的刷新速度</TooManyBaro.options.name.refreshtime>
-  <TooManyBaro.options.tooltip.refreshtime>一个物品合成表存在多个可选材料时, 不同材料显示变化的刷些速度(单位: 毫秒)</TooManyBaro.options.tooltip.refreshtime>
-  <TooManyBaro.options.name.reopenrecipes>是否记忆选择打开的选项卡界面</TooManyBaro.options.name.reopenrecipes>
-  <TooManyBaro.options.tooltip.reopenrecipes>未勾选此选项时, 使用合成表快捷键将打开上次关闭前的界面, 勾选此选项将默认打开物品合成表</TooManyBaro.options.tooltip.reopenrecipes>
-  <TooManyBaro.options.name.openHUD>合成表快捷键</TooManyBaro.options.name.openHUD>
-  <TooManyBaro.options.tooltip.openHUD>选择打开合成表的快捷键, 仅可使用键盘键位</TooManyBaro.options.tooltip.openHUD>
-  <settingstab.54878>toomanybaro</settingstab.54878>
+<TooManyBaro.options.name.refreshtime>不同可选材料的刷新速度</TooManyBaro.options.name.refreshtime>
+<TooManyBaro.options.tooltip.refreshtime>一个物品合成表存在多个可选材料时, 不同材料显示变化的刷新速度(单位: 毫秒)</TooManyBaro.options.tooltip.refreshtime>
+<TooManyBaro.options.name.reopenrecipes>是否记忆选择打开的选项卡界面</TooManyBaro.options.name.reopenrecipes>
+<TooManyBaro.options.tooltip.reopenrecipes>未勾选此选项时, 使用合成表快捷键将打开上次关闭前的界面, 勾选此选项将默认打开物品合成表.</TooManyBaro.options.tooltip.reopenrecipes>
+<TooManyBaro.options.name.openHUD>合成表快捷键</TooManyBaro.options.name.openHUD>
+<TooManyBaro.options.tooltip.openHUD>选择打开合成表的快捷键, 仅可使用键盘键位.</TooManyBaro.options.tooltip.openHUD>
+<settingstab.54878>toomanybaro</settingstab.54878>
+<TooManyBaro.HUD.recipes.requireRecipes>需要解锁配方</TooManyBaro.HUD.recipes.requireRecipes>
+<TooManyBaro.HUD.recipes.ListTarget>目标物品配方表</TooManyBaro.HUD.recipes.ListTarget>
+<TooManyBaro.HUD.recipes.ListIngredient>目标物品合成表</TooManyBaro.HUD.recipes.ListIngredient>
+<TooManyBaro.HUD.deconstruct.output>目标物品分解产物</TooManyBaro.HUD.deconstruct.output>
+<TooManyBaro.HUD.infos.canbebought>能否购买</TooManyBaro.HUD.infos.canbebought>
+<TooManyBaro.HUD.infos.canbesold>能否出售</TooManyBaro.HUD.infos.canbesold>
+<TooManyBaro.HUD.infos.needunlock>是否需要配方解锁</TooManyBaro.HUD.infos.needunlock>
+<TooManyBaro.HUD.infos.couldyoubuy>是否满足购买的特殊条件</TooManyBaro.HUD.infos.couldyoubuy>
+<TooManyBaro.HUD.infos.price>价格</TooManyBaro.HUD.infos.price>
+<TooManyBaro.HUD.infos.buyfactor>购买价格因素</TooManyBaro.HUD.infos.buyfactor>
+<TooManyBaro.HUD.infos.minprice>最低购买价格</TooManyBaro.HUD.infos.minprice>
+<TooManyBaro.HUD.infos.faction>物品所属派系</TooManyBaro.HUD.infos.faction>
+<TooManyBaro.HUD.infos.reputation>物品声望需求</TooManyBaro.HUD.infos.reputation>
+<TooManyBaro.HUD.infos.button.sell>购买价格</TooManyBaro.HUD.infos.button.sell>
+<TooManyBaro.HUD.infos.button.buy>出售价格</TooManyBaro.HUD.infos.button.buy>
+<TooManyBaro.HUD.tab.close>关闭</TooManyBaro.HUD.tab.close>
+<TooManyBaro.HUD.tab.recipesusages>查看材料可合成列表</TooManyBaro.HUD.tab.recipesusages>
+<TooManyBaro.HUD.tab.deconstructrecipes>查看材料分解来源</TooManyBaro.HUD.tab.deconstructrecipes>
+<TooManyBaro.HUD.tab.iteminfos>物品信息</TooManyBaro.HUD.tab.iteminfos>
+<TooManyBaro.HUD.tab.search>搜索合成表</TooManyBaro.HUD.tab.search>
+<TooManyBaro.HUD.tab.modoption>模组设置</TooManyBaro.HUD.tab.modoption>
+<TooManyBaro.HUD.itemcondition>物品需要有一个介于两者之间的条件</TooManyBaro.HUD.itemcondition>
 </infotexts>
