@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Chinese" nowhitespace="false">
+  <TooManyBaro.options.name.refreshtime>不同可选材料的刷新速度</TooManyBaro.options.name.refreshtime>
+  <TooManyBaro.options.tooltip.refreshtime>一个物品合成表存在多个可选材料时, 不同材料显示变化的刷些速度(单位: 毫秒)</TooManyBaro.options.tooltip.refreshtime>
+  <TooManyBaro.options.name.reopenrecipes>是否记忆选择打开的选项卡界面</TooManyBaro.options.name.reopenrecipes>
+  <TooManyBaro.options.tooltip.reopenrecipes>未勾选此选项时, 使用合成表快捷键将打开上次关闭前的界面, 勾选此选项将默认打开物品合成表</TooManyBaro.options.tooltip.reopenrecipes>
+  <TooManyBaro.options.name.openHUD>合成表快捷键</TooManyBaro.options.name.openHUD>
+  <TooManyBaro.options.tooltip.openHUD>选择打开合成表的快捷键, 仅可使用键盘键位</TooManyBaro.options.tooltip.openHUD>
+  <settingstab.54878>toomanybaro</settingstab.54878>
+</infotexts>
